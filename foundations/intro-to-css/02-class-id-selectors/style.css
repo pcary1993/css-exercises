@@ -3,3 +3,14 @@ p {
     font-family: Verdana, 'DejaVu Sans', 'sans-serif';
 }
 
+#two {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.three {
+    background-color: #fa807f;
+    font-family: Verdana, 'DejaVu Sans', 'sans-serif';
+    font-size: 24px;
+}
+
