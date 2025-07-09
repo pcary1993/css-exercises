@@ -42,4 +42,5 @@ a {
 .footer {
   display: flex;
   align-items: flex-end;
+  background-color: #eeeeee;
 }
