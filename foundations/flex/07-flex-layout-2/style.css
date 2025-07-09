@@ -49,9 +49,9 @@ body {
 
 .card-container {
   display: flex;
-  flex-direction: column;
   width: 100%;
   flex-wrap: wrap;
+  padding: 48px;
 }
 
 a {
