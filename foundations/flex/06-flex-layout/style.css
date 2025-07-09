@@ -32,3 +32,14 @@ ul {
 a {
   text-decoration: none;
 }
+
+.header {
+  display:flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.footer {
+  display: flex;
+  align-items: flex-end;
+}
