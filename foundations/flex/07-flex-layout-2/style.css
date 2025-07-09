@@ -49,13 +49,21 @@ body {
 
 .card-container {
   display: flex;
-  width: 100%;
+  width: 150px;
   flex-wrap: wrap;
   padding: 48px;
+  height: 100vh;
+  flex-direction: column;
+  gap: 1rem;
+  justify-content: baseline;
 }
 
 a {
   font-size: 24px;
   color: white;
   text-decoration: none;
+}
+
+.container {
+  display: flex;
 }
