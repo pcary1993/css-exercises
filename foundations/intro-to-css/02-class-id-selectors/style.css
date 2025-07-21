@@ -1,5 +1,9 @@
 .one, .three, .five {
     background-color: #ffb6c1;
     font-family: 'Verdana', 'Deja Vu', sans-serif;
-    
+}
+
+#two {
+    color: #0000ff;
+    font-size: 36px;
 }
