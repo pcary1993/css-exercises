@@ -20,10 +20,7 @@ body {
 .content {
   background: #e3f4ff;
   margin: 8px;
-  padding-top: 16px;
-  padding-bottom: 16px;
-  padding-left: 8px;
-  padding-right: 8px;
+  padding: 16px 8px;
 }
 
 .button-container {
