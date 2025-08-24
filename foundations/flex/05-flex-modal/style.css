@@ -73,3 +73,8 @@ button.cancel {
   justify-content: space-evenly;
   align-items: center;
 }
+
+.header {
+  font-weight: bold;
+  font-size: 20px;
+}
