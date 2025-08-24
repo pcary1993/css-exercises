@@ -35,9 +35,38 @@ body {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  width: 250px;
+  height: 200px; 
+  text-align: left;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .container {
   display: flex;
-  height: 100vh;
+  height: 700px;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  padding-left: 8px;
+  padding-right: 8px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 48px;
+  align-items: center;
+  justify-content: space-evenly;
+  align-content: first baseline;
+}
+
+a {
+  font-size: 24px;
+  color: white;
+  text-decoration: none;
 }
