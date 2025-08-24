@@ -5,6 +5,8 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  display: flex;
+  flex-direction: column;
 }
 
 img {
@@ -55,3 +57,6 @@ li {
   gap: 10px;
 }
 
+.footer {
+  display: flex;
+}
